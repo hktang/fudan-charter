@@ -13,5 +13,5 @@ This repostitory holds historical versions of the Charter of Fudan University.
     │   ├───2014  (Only the 2014 version is available)
     └───txt       Official document in TXT format, generated from PDF or OCR.
         ├───2014  Text from the official PDF file, including metadata.
-        └───2019  Text from OCR (to be added)
+        └───2019  Text from OCR (to be proofread)
 
