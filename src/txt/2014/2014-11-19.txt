@@ -1,7 +1,7 @@
-Retrievial from:    https://www.fudan.edu.cn/_upload/article/files/e2/05/8d49f94840ff8c1fe9263049a668/a5c9b0ef-7e66-43f1-989d-11bf70662039.pdf
+Retrieved from:     https://www.fudan.edu.cn/_upload/article/files/e2/05/8d49f94840ff8c1fe9263049a668/a5c9b0ef-7e66-43f1-989d-11bf70662039.pdf
 Retrievial date:    2019-12-18
 Original format:    PDF
-Originnal metadata: See 2014-11-19.xmp
+Originnal metadata: See src/txt/2014/2014-11-19.xmp
 
 
 复旦大学章程
