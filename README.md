@@ -1,4 +1,4 @@
-# Charter of Fudan University
+# Charter of Fudan University 复旦大学章程
 
 This repostitory holds historical versions of the Charter of Fudan University.
 
